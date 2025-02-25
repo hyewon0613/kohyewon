@@ -3,8 +3,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Passion+One:wght@400;700;900&family=Plaster&display=swap");
 
 :root {
-  --main-color: #ff3c00da;
-  --sub-color: #2600ff;
+  --main-color: #88f7ffda;
+  --sub-color: #e6a8d2da;
   color: #e6a8d2da;
 }
 /* 드래그 했을 때  */
@@ -501,6 +501,7 @@ section {
     transform: translateY(0);
   }
 }
+
 .floating .rotate_shape {
   flex: 1 1 0;
   animation: round 7s linear 0s infinite normal;
